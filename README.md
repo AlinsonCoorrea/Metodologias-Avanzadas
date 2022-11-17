@@ -2,9 +2,13 @@
 Integrantes 
 
 Alinson Bridgeth Correa
+
 Jonathan Andrés Vanegas Herrera 
+
 Karen Yulieth Rodríguez Baez 
+
 Fabian David Merentes Fraile 
+
 Juan Sebastián Muñoz Riveros
   
 
