@@ -65,7 +65,7 @@ public class NewAccountStepDefinition extends KrakenWeb {
         VariableGlobales.EnterRobot();
         Espera.esperaExplicita(2);
         newCustomerStep.escribirDato();
-        Espera.esperaExplicita(2);
+        Espera.esperaExplicita(50);
 
     }
 

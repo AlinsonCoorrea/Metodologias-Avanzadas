@@ -53,5 +53,4 @@ public class NewAccountStep extends PageObject {
         clicEnElemento(NewAccountPage.getBtnSubtim());
     }
 
-
 }

@@ -68,20 +68,6 @@ public class DataInjection {
     public String getCorreo() {
         return correo;
     }
-    public String getContraseña() {
-        return contraseña;
-    }
-    public String getListaSeleccion() {
-        return ListaSeleccion;
-    }
-    public String getValidacionMensajeCuentaCreada() {return validacionMensajeCuentaCreada;}
-    public String getValidacionmensaje() {
-       return validacionmensaje;
-    }
-    public String getValidacionDatosCliente() {
-        return validacionDatosCliente;
-    }
-    public String getUsername() {return username;}
     public String getPassword() {return password;}
 
 }

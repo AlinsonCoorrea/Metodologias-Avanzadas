@@ -16,8 +16,8 @@ Característica: HU-001 Login
     Entonces deberia ver el texto SIGN-OFF.
 
     Ejemplos:
-      | Usuario    | Clave   |
-      | mngr455013 | esumAsa |
+      | Usuario    | Clave       |
+      | mngr455013 | Sistemas12* |
 
   @ClaveYUsuarioErroneos
   Esquema del escenario: Inicio de sesion campos erroneos

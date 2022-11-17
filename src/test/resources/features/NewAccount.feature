@@ -8,20 +8,20 @@ Característica: HU-001 Login
   Antecedentes:
     Dado que estoy en la pagina de guru99
     Cuando ingreso mi usuario y clave respectiva
-      | usuario    | clave   |
-      | mngr455013 | esumAsa |
+      | usuario    | clave       |
+      | mngr455013 | Sistemas12* |
 
   @NewCustomer
   Escenario: Ingreso el nuevo usuario en la página
     Cuando ingresa los datos del cliente proximo a crear
     Entonces debería ver el usuario creado
 
- @NewAccount
- Esquema del escenario: Como usuario ingreso los datos de la nueva cuenta
-   Cuando ingresa los datos de la cuenta que sera creada
-     | id   | deposito   |
-     | <Id> | <Deposito> |
-   Entonces  deberia ver los datos que se quieren ingresar
-   Ejemplos:
-     | Id    | Deposito |
-     | 17652 | 123456   |
+  @NewAccount
+  Esquema del escenario: Como usuario ingreso los datos de la nueva cuenta
+    Cuando ingresa los datos de la cuenta que sera creada
+      | id   | deposito   |
+      | <Id> | <Deposito> |
+    Entonces  deberia ver los datos que se quieren ingresar
+    Ejemplos:
+      | Id    | Deposito |
+      | 94515 | 123456   |

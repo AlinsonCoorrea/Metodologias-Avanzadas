@@ -6,3 +6,11 @@ com/guru99/bank/prueba/runners/NewAccountRunner.java
  com.guru99.bank.prueba.runners.NewAccountRunner
 com/guru99/bank/prueba/stepdefinitions/NewAccountStepDefinition.java
  com.guru99.bank.prueba.stepdefinitions.NewAccountStepDefinition
+com/guru99/bank/prueba/runners/ChangePasswordRunner.java
+ com.guru99.bank.prueba.runners.ChangePasswordRunner
+com/guru99/bank/prueba/stepdefinitions/ChangePasswordStepDefinition.java
+ com.guru99.bank.prueba.stepdefinitions.ChangePasswordStepDefinition
+com/guru99/bank/prueba/runners/DeleteCustomerRunner.java
+ com.guru99.bank.prueba.runners.DeleteCustomerRunner
+com/guru99/bank/prueba/stepdefinitions/DeleteCustomerStepDefinition.java
+ com.guru99.bank.prueba.stepdefinitions.DeleteCustomerStepDefinition
