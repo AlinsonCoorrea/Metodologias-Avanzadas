@@ -1,18 +1,19 @@
 # Metodologias-Avanzadas
 Integrantes 
 
-Alinson Bridgeth Correa
+*Alinson Bridgeth Correa*
 
-Jonathan Andrés Vanegas Herrera 
+*Jonathan Andrés Vanegas Herrera* 
 
-Karen Yulieth Rodríguez Baez 
+*Karen Yulieth Rodríguez Baez *
 
-Fabian David Merentes Fraile 
+*Fabian David Merentes Fraile *
 
-Juan Sebastián Muñoz Riveros
+*Juan Sebastián Muñoz Riveros*
   
 
-Herramientas Utilizadas: 
+
+--Herramientas Utilizadas:--
 
 
 	Selenium web driver 
