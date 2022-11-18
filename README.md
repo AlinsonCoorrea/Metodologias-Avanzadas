@@ -21,6 +21,7 @@ Herramientas Utilizadas:
 	intellij ide 
 	GitHub 
 	Java JDK 8
+	Gherkin
 
   
 
@@ -63,7 +64,7 @@ Model van los actores que intervienen en la ejecución de la prueba y se crea un
  ![image](https://user-images.githubusercontent.com/85239699/202568091-bfa18c69-1519-4863-9618-690ebd057ce9.png)
 
 
- Para la documentación y el entendimiento o uso de lenguaje Jenkins se usan los stepdefinitions que son donde se definen los pasos que interpreta Jenkins. 
+ Para la documentación y el entendimiento o uso de lenguaje Gherkin se usan los stepdefinitions que son donde se definen los pasos que interpreta este mismo. 
 
  
 ![image](https://user-images.githubusercontent.com/85239699/202568304-7365ec96-9c5a-4d78-ad75-b6f034bd645c.png)
@@ -84,4 +85,4 @@ Ya para ver el Reporte que genera gradle se abre desde la carpeta target y en in
 
 Conclusión   
 
-Jenkins para el tema de pruebas es de gran ayuda debido aque permite tener un control de tus pruebas y documentación de estas como constancia de las Historias de usuario, más que sirven para que lo pueda entender la gran mayoría de las personas. 
+Gherkin para el tema de pruebas es de gran ayuda debido aque permite tener un control de tus pruebas y documentación de estas como constancia de las Historias de usuario, más que sirven para que lo pueda entender la gran mayoría de las personas. 
