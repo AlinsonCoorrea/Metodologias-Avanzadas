@@ -19,5 +19,5 @@ Característica: HU-003 Change Password
     Entonces  deberia ver el cambio de contraseña
     Ejemplos:
       | Oldpassword | Newpassword | Confirmpassword |
-      | Sistemas12*  | Sistemas112 | Sistemas112     |
+      | Sistemas112 | Sistemas11  | Sistemas11      |
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HU-003 Change Password" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-17T23:56:46" hostname="LAPTOP-AQ53B80U" time="32.811">
+<testsuite name="HU-003 Delete Customer" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-17T23:57:21" hostname="LAPTOP-AQ53B80U" time="26.802">
   <properties/>
-  <testcase name="como usuario entro a cambio de contraseña" classname="HU-003 Change Password" time="32.811"/>
+  <testcase name="como usuario entro a Eliminar un customer" classname="HU-003 Delete Customer" time="26.802"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 14877
+  <system-err><![CDATA[Starting ChromeDriver 106.0.5249.61 (511755355844955cd3e264779baf0dd38212a4d0-refs/branch-heads/5249@{#569}) on port 12299
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1668729409.542][WARNING]: This version of ChromeDriver has not been tested with Chrome version 107.
-nov 17, 2022 6:56:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1668729442.830][WARNING]: This version of ChromeDriver has not been tested with Chrome version 107.
+nov 17, 2022 6:57:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
         __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
@@ -18,7 +18,7 @@ INFORMACIÓN: Detected dialect: W3C
  (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
         /_/                                                                
 
-TEST PASSED: como usuario entro a cambio de contraseña
+TEST PASSED: como usuario entro a Eliminar un customer
 ----------------------------------------------------------------------------
 ]]></system-err>
 </testsuite>
